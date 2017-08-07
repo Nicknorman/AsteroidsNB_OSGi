@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.OSGiExtender">
+    <module_version install_time="1494686445733" last="true" origin="installer" specification_version="1.0">
+        <file crc="4122261557" name="config/Modules/dk-sdu-nkjel14-OSGiExtender.xml"/>
+        <file crc="3679867285" name="modules/dk-sdu-nkjel14-OSGiExtender.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/nkjel14/osgiextender/Bundle.p
+ roperties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20170513
+OpenIDE-Module-Build-Version: 201705131440
+OpenIDE-Module: dk.sdu.nkjel14.OSGiExtender
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.nkjel14
+OpenIDE-Module-Name: OSGiExtender
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.27.1, org.eclipse.osgi.services > 3.2.100, org.eclipse.equino
+ x.ds > 1.4.400, org.eclipse.equinox.util > 1.0.500, dk.sdu.nkjel14.OS
+ GiEnemy > 1.0.0, dk.sdu.nkjel14.OSGiBullet > 1.0.0
+

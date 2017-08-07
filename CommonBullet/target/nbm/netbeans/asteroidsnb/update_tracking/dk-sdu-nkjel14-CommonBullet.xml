@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.CommonBullet">
+    <module_version install_time="1494686442006" last="true" origin="installer" specification_version="1.0">
+        <file crc="4289283327" name="config/Modules/dk-sdu-nkjel14-CommonBullet.xml"/>
+        <file crc="379999022" name="modules/dk-sdu-nkjel14-CommonBullet.jar"/>
+    </module_version>
+</module>

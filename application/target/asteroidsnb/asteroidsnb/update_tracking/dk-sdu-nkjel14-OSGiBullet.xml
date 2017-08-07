@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.nkjel14.OSGiBullet">
+    <module_version install_time="1494686449707" last="true" origin="installer" specification_version="1.0.0.SNAPSHOT">
+        <file crc="2238867700" name="config/Modules/dk-sdu-nkjel14-OSGiBullet.xml"/>
+        <file crc="2908027061" name="modules/dk-sdu-nkjel14-OSGiBullet.jar"/>
+    </module_version>
+</module>

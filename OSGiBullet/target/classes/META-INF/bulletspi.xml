@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="dk.sdu.nkjel14.osgibullet">
+    <implementation class="dk.sdu.nkjel14.osgibullet.BulletControlSystem" />
+    <service>
+        <provide interface="dk.sdu.nkjel14.commonbullet.BulletSPI" />
+    </service>
+</scr:component>

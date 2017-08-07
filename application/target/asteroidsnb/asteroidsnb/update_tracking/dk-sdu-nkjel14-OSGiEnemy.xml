@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.nkjel14.OSGiEnemy">
+    <module_version install_time="1494686449703" last="true" origin="installer" specification_version="1.0.0.SNAPSHOT">
+        <file crc="127365840" name="config/Modules/dk-sdu-nkjel14-OSGiEnemy.xml"/>
+        <file crc="3064771371" name="modules/dk-sdu-nkjel14-OSGiEnemy.jar"/>
+    </module_version>
+</module>

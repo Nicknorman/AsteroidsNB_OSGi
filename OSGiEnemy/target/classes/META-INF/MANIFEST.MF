@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1494686444402
+Build-Jdk: 1.8.0_71
+Built-By: Nick
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGiEnemy
+Bundle-SymbolicName: dk.sdu.nkjel14.OSGiEnemy
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: dk.sdu.mmmi.cbse.common.data,dk.sdu.mmmi.cbse.common.ser
+ vices,dk.sdu.nkjel14.commonbullet
+Service-Component: META-INF/entityprocessor.xml, META-INF/gameplugin.xml
+Tool: Bnd-1.50.0

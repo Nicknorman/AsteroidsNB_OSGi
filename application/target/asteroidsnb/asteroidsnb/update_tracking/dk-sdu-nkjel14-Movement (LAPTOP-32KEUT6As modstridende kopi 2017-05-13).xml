@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.Movement">
+    <module_version install_time="1494688910618" last="true" origin="installer" specification_version="1.0">
+        <file crc="2032132210" name="config/Modules/dk-sdu-nkjel14-Movement.xml"/>
+        <file crc="2019192906" name="modules/dk-sdu-nkjel14-Movement.jar"/>
+    </module_version>
+</module>

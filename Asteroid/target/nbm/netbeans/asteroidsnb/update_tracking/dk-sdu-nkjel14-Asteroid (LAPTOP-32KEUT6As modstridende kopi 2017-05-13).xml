@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.Asteroid">
+    <module_version install_time="1494688888963" last="true" origin="installer" specification_version="1.0">
+        <file crc="1375803496" name="config/Modules/dk-sdu-nkjel14-Asteroid.xml"/>
+        <file crc="1437676517" name="modules/dk-sdu-nkjel14-Asteroid.jar"/>
+    </module_version>
+</module>

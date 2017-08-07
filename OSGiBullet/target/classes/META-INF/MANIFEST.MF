@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1494686444918
+Build-Jdk: 1.8.0_71
+Built-By: Nick
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: dk.sdu.nkjel14.osgibullet.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGiBullet
+Bundle-SymbolicName: dk.sdu.nkjel14.OSGiBullet
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: dk.sdu.mmmi.cbse.common.data,dk.sdu.mmmi.cbse.common.ser
+ vices,dk.sdu.nkjel14.commonbullet,org.osgi.framework;version="[1.6,2)"
+Service-Component: META-INF/gameplugin.xml, META-INF/entityprocessor.xml
+ , META-INF/bulletspi.xml
+Tool: Bnd-1.50.0

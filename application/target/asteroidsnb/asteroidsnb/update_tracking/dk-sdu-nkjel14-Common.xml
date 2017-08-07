@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.Common">
+    <module_version install_time="1494686449453" last="true" origin="installer" specification_version="1.0">
+        <file crc="491185911" name="config/Modules/dk-sdu-nkjel14-Common.xml"/>
+        <file crc="367259348" name="modules/dk-sdu-nkjel14-Common.jar"/>
+    </module_version>
+</module>

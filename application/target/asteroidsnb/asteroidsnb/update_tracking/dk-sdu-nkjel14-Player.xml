@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.Player">
+    <module_version install_time="1494686449629" last="true" origin="installer" specification_version="1.0">
+        <file crc="3523524396" name="config/Modules/dk-sdu-nkjel14-Player.xml"/>
+        <file crc="3765903182" name="modules/dk-sdu-nkjel14-Player.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.nkjel14.AsteroidsNB.branding">
+    <module_version install_time="1494688881396" last="true" origin="installer" specification_version="1.0">
+        <file crc="910348073" name="config/Modules/dk-sdu-nkjel14-AsteroidsNB-branding.xml"/>
+        <file crc="2589958339" name="core/locale/core_asteroidsnb.jar"/>
+        <file crc="2474247393" name="modules/dk-sdu-nkjel14-AsteroidsNB-branding.jar"/>
+        <file crc="2680711047" name="modules/locale/org-netbeans-core-windows_asteroidsnb.jar"/>
+        <file crc="4114229066" name="modules/locale/org-netbeans-core_asteroidsnb.jar"/>
+    </module_version>
+</module>
